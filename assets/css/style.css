@@ -749,10 +749,11 @@ section {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(255, 255, 255, 0.8); 
+  background-color: rgba(255, 255, 255, 0.9); 
   padding: 10px;
   display: none;
   width: 100%; 
+  font-size: 22px;
 }
 
 .projects:hover .description {
@@ -766,6 +767,10 @@ section {
   max-width: 490px;
   max-height: 586px;
   object-position: top;
+}
+
+.projects a{
+  font-size: 30px;
 }
 
 /*--------------------------------------------------------------
