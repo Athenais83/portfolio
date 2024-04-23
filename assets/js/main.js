@@ -259,7 +259,4 @@ function showDescription(element) {
   description.style.display = 'block';
 }
 
-function hideDescription(element) {
-  var description = element.querySelector('.description');
-  description.style.display = 'none';
-}
+
