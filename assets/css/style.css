@@ -613,6 +613,34 @@ section {
   min-height: 500px;
 }
 
+.progress {
+  margin-bottom: 25px;
+  color: orange;
+  padding-bottom: 30px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+.progress-bar-wrap {
+  overflow: hidden;
+  height: 20px;
+  background-color: #f5f5f5;
+  border-radius: 20px;
+}
+
+.val{
+  margin-right: 15px;
+}
+
+.skill{
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  justify-content: space-between;
+}
+
 /*--------------------------------------------------------------
 # My Portfolio
 --------------------------------------------------------------*/
