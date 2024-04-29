@@ -1,11 +1,3 @@
-/**
-* Template Name: Laura
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -317,7 +309,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/femme-code.jpg") top right;
+  background: url("../img/femme-code.webp") top right;
   background-size: cover;
   position: relative;
 }
@@ -608,7 +600,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/moi.jpg") center center no-repeat;
+  background: url("../img/moi.webp") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
